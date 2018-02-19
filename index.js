@@ -17,3 +17,9 @@ exports.range = function(min, max){
     return word.length >= min && word.length <= max
   })
 }
+
+exports.amount = function(count){
+  return myArray.filter(word => {
+    return word.length > 3
+  }).splice(1, count)
+}
