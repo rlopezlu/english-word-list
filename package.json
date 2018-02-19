@@ -12,5 +12,9 @@
     "words"
   ],
   "author": "Raul Lopez Luna <raullopez2094@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rlopezlu/english-word-list/tree/master"
+},
   "license": "ISC"
 }
