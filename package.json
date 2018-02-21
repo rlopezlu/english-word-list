@@ -1,6 +1,6 @@
 {
   "name": "english-word-list",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "\"Get an array of common english words\"",
   "main": "index.js",
   "scripts": {
