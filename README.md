@@ -28,7 +28,8 @@ Can also be between x and y characters
 * range(x, y)
 
 To request a certain amount of words:
-* 
+* amount(x)
+
+
 Coming soon:
-* Shuffled (random) option
 * More words
